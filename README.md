@@ -1,2 +1,2 @@
 # FSWD_css
-Full Stack Web Development (Udemy) - css
+Full Stack Web Development - css
